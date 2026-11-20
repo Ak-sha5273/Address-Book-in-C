@@ -43,31 +43,35 @@ The application performs validation to maintain correct contact information.
 
 5. Project Structure
 
-
-Address_Book_Management_System/
+Address-Book-Management-System
 │
 ├── main.c
+│
 ├── contact.c
 ├── contact.h
+│
 ├── file.c
 ├── file.h
+│
 ├── populate.c
 ├── populate.h
+│
 ├── contacts.csv
 ├── contacts.txt
-├── README.md
-├── .gitignore
 │
-└── screenshots/
-    ├── main-menu.png
-    ├── create-contact.png
-    ├── search-contact.png
-    ├── edit-contact.png
-    ├── delete-contact.png
-    └── list-contacts.png
+├── screenshots
+│   ├── main-menu.png
+│   ├── create-contact.png
+│   ├── search-contact.png
+│   ├── edit-contact.png
+│   ├── delete-contact.png
+│   └── list-contacts.png
+│
+├── README.md
+└── .gitignore
 
 
- 6. Advantages
+6. Advantages
 
 - Simple and user-friendly menu-driven interface.
 - Makes contact management easier.
@@ -104,9 +108,7 @@ gcc *.c
 ## 10. Execution
 
 Run the application:
-
-bash
-./a.out
+bash ./a.out
 
 
 11. Data Storage
