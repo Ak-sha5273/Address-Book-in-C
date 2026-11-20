@@ -42,24 +42,20 @@ The application performs validation to maintain correct contact information.
 - Invalid inputs are given limited retry attempts.
 
 5. Project Structure
-
-Address-Book-Management-System
+```text
+Address-Book-Management-System/
 │
 ├── main.c
-│
 ├── contact.c
 ├── contact.h
-│
 ├── file.c
 ├── file.h
-│
 ├── populate.c
 ├── populate.h
-│
 ├── contacts.csv
 ├── contacts.txt
 │
-├── screenshots
+├── screenshots/
 │   ├── main-menu.png
 │   ├── create-contact.png
 │   ├── search-contact.png
@@ -69,8 +65,7 @@ Address-Book-Management-System
 │
 ├── README.md
 └── .gitignore
-
-
+```
 6. Advantages
 
 - Simple and user-friendly menu-driven interface.
