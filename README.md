@@ -121,32 +121,34 @@ Screenshots demonstrating the different operations of the Address Book Managemen
 
 Main Menu:
 
-
-
 <img width="475" height="226" alt="Main-Menu" src="https://github.com/user-attachments/assets/57c07207-bb7b-44a4-aca9-f3dd7ea177ad" />
 
-
-
-
 ### Create Contact
-
-![Create Contact](screenshots/create-contact.png)
+<img width="443" height="636" alt="contact c" src="https://github.com/user-attachments/assets/8b01314e-5e08-47af-9e4a-91104eb771a7" />
+<img width="552" height="315" alt="contact1 c" src="https://github.com/user-attachments/assets/8b198dc2-4d46-4c71-a4c9-827366f7df7f" />
 
 ### Search Contact
+<img width="587" height="796" alt="Screenshot 2026-11-20 115536" src="https://github.com/user-attachments/assets/280354c3-2540-4e98-b077-6c7c9bac5559" />
+<img width="535" height="461" alt="Screenshot 2026-11-20 115701" src="https://github.com/user-attachments/assets/1587dffb-2f1f-4bfb-bda8-acbc31f86954" />
 
-![Search Contact](screenshots/search-contact.png)
+
+
 
 ### Edit Contact
+<img width="562" height="743" alt="edit c" src="https://github.com/user-attachments/assets/f99a9073-4b59-4969-8811-4e757af34637" />
+<img width="566" height="263" alt="edit1 c" src="https://github.com/user-attachments/assets/03664bd7-6d13-43b2-95d0-c6681ea45d93" />
 
-![Edit Contact](screenshots/edit-contact.png)
+
+
 
 ### Delete Contact
+<img width="661" height="813" alt="delete c" src="https://github.com/user-attachments/assets/5996f03d-c009-40f8-af22-27f8d3d79133" />
 
-![Delete Contact](screenshots/delete-contact.png)
+
+
 
 ### List Contacts
-
-![List Contacts](screenshots/list-contacts.png)
+<img width="651" height="541" alt="print c" src="https://github.com/user-attachments/assets/c8a7949a-ec3d-4c4e-814e-cd93aa2eb8ec" />
 
 13. Learning Outcomes
 
